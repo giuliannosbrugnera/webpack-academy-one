@@ -9,6 +9,7 @@
         "watch": "webpack --watch"
     },
     "devDependencies": {
+        "file-loader": "^0.11.2",
         "webpack": "^3.5.5"
     }
 }
