@@ -1,0 +1,7 @@
+{
+    "name": "webpack-academy-one",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Giulianno Sbrugnra <giulianno.sbrugnera@gmail.com",
+    "license": "MIT"
+}
